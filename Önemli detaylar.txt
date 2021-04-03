@@ -1,0 +1,22 @@
+Teşekkür Komuşmam:
+Merhaba öncelikle bu eğitimi yaptığınız için teşekkür ederim. Ardunio öğrenmek benim için yeni bir başlangıç oldu.
+yazılımdan soğumuş olmam beni Arduino ve IoT alanına daha da yaklaştırdı. İyi ki bu eğitime katılmışım ve iyi ki 
+sizleri tanımışım. Sıkılmadan, bıkmadan, usanmadan gerek discorddan gerek telegramdan derdimi dinleyip yardımcı 
+olmaya çalışan herkese çok teşekkür ediyorum. Ama özellikle derslerde pozitif enerjisi ile bizleri deşarj eden 
+Onur Can Kahraman hocamıza, yaşadığım teknik sorunlarda ve çıktığım yolculuk durumunda durumumdan haberdar 
+ettiğimde yardımcı olmaya çalışan Esma Demir (<3) hocama ve Blynk-NodeMCU devre tasarımı sırasında sürekli 
+soru yağmuruna tuttuğum Berkcan Gümüşışık hocama ayrıca bana tahammül ettikleri için minnettarım. 
+Umarım yeni projelerde tekrar karşılaşırız DCSGazi Ailesi şimdilik hoşçakalın.  
+
+								Beyza Nur ALTINOK
+								Discord: Bad Genius
+								Telegram: QueenOfDarkness-> Bad Genius 
+								
+
+Proje Hakkında Bilgilendirme:
+Projem henüz beta aşamasında ve aldığı değerleri çok hassas şekilde belirtiyor bazen anlamadığım şelikde öylece
+dururken nabız değerleri değiştiriyor. (Masanın nabzı olduğuna inanamaya başlıycam yakında :D) Onun haricinde 
+bir yalan deneme videosu yapmak vardı gönlümden geçen yalnız nabız ölçerimin son anda bunca denemeye 
+dayanamayıp (+Nabız ölçer: Ya beni bi salııın...;D) kablosu koptu. Bu sebepten tanıtım videosuna kadar çekebildim. 
+Prototip hazırlayamadığımı telegramda söylediğimde bunu projende belirt mutlaka demişti Esma Hocam bu sebepten 
+burada belirtiyorum. TinkerCad programında kullandığım malzemeler olmadığı için prototip oluşturamadım. 
